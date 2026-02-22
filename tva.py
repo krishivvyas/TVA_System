@@ -117,7 +117,7 @@ def prune(target: str = typer.Argument(None, help="Specific variant to prune")):
 @app.command(hidden=True)
 def miss_minutes():
     """Summons the AI mascot."""
-    art = """
+    art = r"""
        (  .      )
      .           .
    (       o       )   "Hey y'all!"
