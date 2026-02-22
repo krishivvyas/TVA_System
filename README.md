@@ -107,9 +107,3 @@ The system contains undocumented triggers. Enter at your own risk.
 ## ⚠️ DISCLAIMER
 
 *This tool is a novelty wrapper for Git, but its file operations are real. The default configuration renames branches rather than performing hard deletions (`git branch -D`), but the TVA assumes no liability for lost work, temporal paradoxes, or encounters with Alioth. Always push your code.*
-
-```
-
-Would you like to move on to building the automated cron job/background task to make the pruning run on its own?
-
-```
